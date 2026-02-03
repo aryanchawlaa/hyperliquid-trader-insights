@@ -1,5 +1,5 @@
 # [ PART A - DATA PREPARATION ]
-This repository contains a comprehensive data analysis project exploring the impact of market sentiment—specifically the **Bitcoin Fear & Greed Index**—on the behavior and profitability of traders on the **Hyperliquid** decentralized excha
+This repository contains a comprehensive data analysis project exploring the impact of market sentiment—specifically the **Bitcoin Fear & Greed Index**—on the behavior and profitability of traders on the **Hyperliquid** decentralized exchange
 * **Data Synthesis:** Aligning high-frequency trade data with daily sentiment classifications.
 * **Behavioral Analysis:** Quantifying how 'Fear' and 'Greed' influence trader metrics such as win rates, trade frequency, and position sizing.
 * **Strategic Insights:** Developing "rules of thumb" and risk management protocols to optimize trading performance based on historical sentiment patterns.
