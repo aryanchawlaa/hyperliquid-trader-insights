@@ -16,3 +16,5 @@ This repository contains a comprehensive data analysis project exploring the imp
 # [PART C - ACTIONABLE OUTPUT ] HERE ARE THE STARTEGIES THAT I SUGGEST
    * *Strategy 1:* Implement "Greed Caps" — reduce maximum position sizes by 50% when the index exceeds 75, as the data shows a 30% drop in win probability.
    *  *Strategy 2:* Contrarian Signal — increase leverage only for the "Consistent Winner" segment when sentiment is below 25 (Fear).
+
+# BONUS TASK - COMPLETED [BONUS TASK ANALYSIS.IPYNB] HAS BEEN ATTACHED
